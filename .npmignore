@@ -1,0 +1,15 @@
+# .npmignore
+
+node_modules/
+.storybook/
+dist/
+coverage/
+tests/
+storybook/
+stories
+storybook-static/
+lerna*
+
+packages/styles/index.css
+rollup*
+tailwind*
